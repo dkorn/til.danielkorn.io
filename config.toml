@@ -1,0 +1,42 @@
+baseurl = "https://danielkorn.io/"
+languageCode = "en-us"
+title = "Steam - a minimal theme for Hugo"
+theme = "hugo-steam-theme"
+# disqusShortname = "spf13"
+# Enable Google Analytics be inserting your tracking code
+googleAnalytics = ""
+# Number of posts per page
+paginate = 10
+
+[params]
+	title = "Today I Learned"
+	subtitle = "things I learned while ~~coding~~ trying to code"
+	copyright = "Released under the MIT license."
+
+	# You can choose between green, orange, red and blue.
+	themecolor = "blue"
+
+	# Link custom assets relative to /static
+	favicon   = "favicon.ico"
+	customCSS = []
+	customJS  = []
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Daniel Korn"
+	bio = "Software Engineer - Sports Fan - Open Source Contributor"
+	description = "Your description of the blog"
+
+	# Link your social networks (optional)
+	location = ""
+	twitter = "korndaniel1"
+	linkedin = "daniel-korn-2876a496"
+	facebook = "daniel.korn.56"
+	instagram = "danielkornjnael"
+	github = "dkorn"
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "Whoops! page not found - 404"
