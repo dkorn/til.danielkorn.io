@@ -2,7 +2,6 @@ baseurl = "https://danielkorn.io/"
 languageCode = "en-us"
 title = "Steam - a minimal theme for Hugo"
 theme = "hugo-steam-theme"
-disqusShortname = "til-danielkorn-1"
 # Enable Google Analytics be inserting your tracking code
 googleAnalytics = ""
 # Number of posts per page
@@ -12,6 +11,9 @@ paginate = 10
 	title = "Today I Learned"
 	subtitle = "things I learned while ~~coding~~ trying to code"
 	copyright = "Released under the MIT license."
+
+  googleAnalytics = "UA-111374409-2"
+  disqusShortname = "til-danielkorn-1"
 
 	# You can choose between green, orange, red and blue.
 	themecolor = "blue"
