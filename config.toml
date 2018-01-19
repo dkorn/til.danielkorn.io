@@ -1,9 +1,7 @@
 baseurl = "https://danielkorn.io/"
 languageCode = "en-us"
-title = "Steam - a minimal theme for Hugo"
+title = "Daniel Korn - Today I learned"
 theme = "hugo-steam-theme"
-# Enable Google Analytics be inserting your tracking code
-googleAnalytics = ""
 # Number of posts per page
 paginate = 10
 
@@ -12,6 +10,7 @@ paginate = 10
 	subtitle = "things I learned while ~~coding~~ trying to code"
 	copyright = "Released under the MIT license."
 
+  # Enable Google Analytics be inserting your tracking code
   googleAnalytics = "UA-111374409-2"
   disqusShortname = "til-danielkorn-1"
 
@@ -27,7 +26,7 @@ paginate = 10
 	# feel free to add a few information about you and your website.
 	name = "Daniel Korn"
 	bio = "Software Engineer - Sports Fan - Open Source Contributor"
-	description = "Your description of the blog"
+	description = "Today I Learned - things I learned while coding"
 
 	# Link your social networks (optional)
 	location = ""
