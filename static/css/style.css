@@ -1,0 +1,35 @@
+body {
+    margin-bottom: 100px;
+}
+
+h1.blog-title {
+    font-size: 50px;
+    line-height: 52px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+  h1.blog-subtitle {
+    margin-bottom: 65px;
+}
+
+@media (max-width: 700px) {
+  h1.blog-title {
+      margin-top: 10px;
+  }
+  h1.blog-subtitle {
+    margin-bottom: 55px;
+}
+  .site-footer {
+    border-top: 0px solid white;
+  }
+}
+
+.site-footer {
+    border-top: 15px solid white;
+    background: #f4f4f4;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

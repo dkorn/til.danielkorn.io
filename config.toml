@@ -20,7 +20,7 @@ paginate = 10
 	# Link custom assets relative to /static
 	favicon   = "favicon.ico"
 	avatar    = "avatar.jpg"
-  customCSS = []
+  customCSS = ["css/style.css"]
 	customJS  = []
 
 	# To provide some metadata for search engines and the about section in the footer
