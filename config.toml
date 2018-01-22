@@ -2,17 +2,17 @@ baseurl = "https://danielkorn.io/"
 languageCode = "en-us"
 title = "Daniel Korn - Today I learned"
 theme = "hugo-steam-theme"
+disqusShortname = "til-danielkorn-1"
 # Number of posts per page
 paginate = 10
 
 [params]
 	title = "Today I Learned"
 	subtitle = "things I learned while ~~coding~~ trying to code"
-	copyright = "Released under the MIT license."
+	copyright = "korndaniel1@gmail.com"
 
   # Enable Google Analytics be inserting your tracking code
   googleAnalytics = "UA-111374409-2"
-  disqusShortname = "til-danielkorn-1"
 
 	# You can choose between green, orange, red and blue.
 	themecolor = "blue"
