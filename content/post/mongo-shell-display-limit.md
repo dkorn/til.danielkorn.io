@@ -3,6 +3,7 @@ title: "Mongo Shell GIMME MORE"
 date: 2018-01-22T16:32:22+02:00
 draft: false
 description: Changing the mongo shell batch size 
+tags: ["mongo", "mongodb", "DBQuery", "mongoshell"]
 ---
 When retrieving documents in the mongo shell using the `find()` method, without assigning to a var, it will print only the first 20 documents that match the query. 
 

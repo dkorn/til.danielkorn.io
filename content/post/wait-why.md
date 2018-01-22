@@ -4,6 +4,7 @@ date: 2018-01-18T10:10:53+02:00
 draft: false 
 description: why I started with '_Today I Learned_'
 url: /wait-why/
+tags: ["firstpost"]
 ---
 
 As a developer, learning new things is an integral part of the day-2-day work.

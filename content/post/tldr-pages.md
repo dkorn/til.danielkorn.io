@@ -3,6 +3,7 @@ title: "TLDR Pages"
 date: 2018-01-20T21:49:15+02:00
 draft: false
 description: Simplified and community-driven man pages
+tags: ["tldr", "man", "man-pages", "command", "open-source"]
 ---
 Everyone loves `man` pages, but sometimes, well most times, you just need the gist and an example or
 two.

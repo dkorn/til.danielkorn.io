@@ -6,6 +6,10 @@ disqusShortname = "til-danielkorn-1"
 # Number of posts per page
 paginate = 10
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
 	title = "Today I Learned"
 	subtitle = "things I learned while ~~coding~~ trying to code"
