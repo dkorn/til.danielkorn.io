@@ -17,7 +17,7 @@ I used to save the edited file to a temporary location when the permission error
 :w !sudo tee %
 ```
 
-#### Command Explained:
+#### Command Explained
 * `:w !cmd` - write the current buffer piped through command
 
 * `%`       - the filename associated with the buffer

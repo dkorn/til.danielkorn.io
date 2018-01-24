@@ -10,11 +10,11 @@ two.
 
 Checkout TLDR pages - an awesome open source project that does exactly that!
 
-#### Example:
+#### Usage
 
 ![tar example](/images/tldr-tar.png)
 
-#### Installation:
+#### Installation
 
 Node.JS client with NPM
 ```Shell
