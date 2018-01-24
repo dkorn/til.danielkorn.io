@@ -6,11 +6,11 @@ description: Check the weather from your terminal using `curl`
 tags: ["curl", "weather", "forecast", "terminal", "open-source", "shell", "terminaltricks", "command"]
 ---
 
-I was looking for a way to get the forecast from the terminal, _because why not?_ :)   
+I was looking for a way to get the forecast from the terminal, _because why not?_ :)
 Sure, I can browse to AccuWeather/The Weather Channel and after few clicks get what I wanted, but where's the
 fun in that?
 
-I came across this great open source project: [wttr.in](https://github.com/chubin/wttr.in/).  
+I came across this great open source project: [wttr.in](https://github.com/chubin/wttr.in/).
 It's basically a web frontend for [wego](https://github.com/schachmat/wego), a terminal weather app with awesome ASCII art, that brings you all da sh\*t with nothing but `curl`!
 
 #### Usage
@@ -24,11 +24,11 @@ $ curl wttr.in/tel-aviv
 #### Advanced Features
 
 * Dropping the location name will return the report for your current location, based on IP address, but it's **not** so accurate
-* Use 3-letters airport codes to get their weather info:    
+* Use 3-letters airport codes to get their weather info:
 ```
 $ curl wttr.in/jfk
 ```
-* To query a name of some geographical location/site place `~` before its name:   
+* To query a name of some geographical location/site place `~` before its name:
 ```
 $ curl wttr.in/~santiago-bernabeu-stadium
 ```

@@ -1,7 +1,7 @@
 ---
 title: "Wait, Why?"
 date: 2018-01-18T10:10:53+02:00
-draft: false 
+draft: false
 description: why I started with '_Today I Learned_'
 url: /wait-why/
 tags: ["firstpost"]

@@ -7,7 +7,7 @@ tags: ["sudo", "vim", "permissions"]
 ---
 
 It happened to me countless times - forgetting to `sudo` before I start editing a file I don't have
-permission on using Vim. 
+permission on using Vim.
 
 I used to save the edited file to a temporary location when the permission error prompt, and copy it back again.
 
