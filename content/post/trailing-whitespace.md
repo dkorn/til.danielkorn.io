@@ -1,5 +1,5 @@
 ---
-title: "Trailing Whitespace, Trailing Whitespace Everywhere"
+title: "Trailing Whitespace, No More!"
 date: 2018-01-25T17:33:46+02:00
 draft: false
 description: Vim plugin that highlights and cleans all trailing whitespace
