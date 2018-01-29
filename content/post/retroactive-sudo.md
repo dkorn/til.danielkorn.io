@@ -3,7 +3,7 @@ title: "Retroactive sudo"
 date: 2018-01-19T17:23:15+02:00
 draft: false
 description: forgot to `sudo` before editing a file with Vim? No worries
-tags: ["sudo", "vim", "permissions", "command", "vimtricks"]
+tags: ["sudo", "vim", "permissions", "command", "vim-tricks"]
 ---
 
 It happened to me countless times - forgetting to `sudo` before I start editing a file I don't have

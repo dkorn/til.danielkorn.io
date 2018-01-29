@@ -3,7 +3,7 @@ title: "Sweater Weather"
 date: 2018-01-23T16:20:03+02:00
 draft: false
 description: Check the weather from your terminal using `curl`
-tags: ["curl", "weather", "forecast", "terminal", "open-source", "shell", "terminaltricks", "command"]
+tags: ["curl", "weather", "forecast", "terminal", "open-source", "shell", "terminal-tricks", "command"]
 ---
 
 I was looking for a way to get the forecast from the terminal, _because why not?_ :) 
