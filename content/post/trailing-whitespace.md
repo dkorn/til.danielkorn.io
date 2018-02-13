@@ -4,6 +4,7 @@ date: 2018-01-25T17:33:46+02:00
 draft: false
 description: Vim plugin that highlights and cleans all trailing whitespace
 tags: ["vim", "vimrc", "vim-plugin", "trailing-whitespace", "open-source"]
+keywords: [vim, vimrc, vim plugin, trailing whitespace, open source, stripe whitespace]
 ---
 
 Nobody likes trailing whitespace.

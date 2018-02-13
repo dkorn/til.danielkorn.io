@@ -4,6 +4,7 @@ date: 2018-02-07T19:11:05+02:00
 draft: false
 description: Fish-like autosuggestions for zsh
 tags: ["zsh", "autosuggestions", "z-shell", "open-source", "fish"]
+keywords: [zsh, autosuggestion, open source, Z shell, zsh plugin, Oh-My-Zsh, completion]
 ---
 I've been using zsh for a few years now and I truly love it.
 
@@ -13,7 +14,7 @@ As the name implies, It suggests commands as you type based on history.
 **_Today I Learned_** about [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin that does exactly that!
 
 #### Usage
-Start typing a command and you'll see a completion offered after the cursor in gray.    
+Start typing a command and you'll see a completion offered after the cursor in gray.
 Accept the suggestion by pressing the → key or End.
 
 ![Easy peasy](https://media.giphy.com/media/NaboQwhxK3gMU/giphy.gif)

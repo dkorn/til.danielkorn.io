@@ -4,9 +4,10 @@ date: 2018-02-08T17:36:41+02:00
 draft: false
 description: Lessons Learned From Event Sourcing Talk
 tags: ["event-sourcing", "cqrs", "data", "crud", "consistency", "talk"]
+keywords: [event sourcing, CQRS, data, CRUD, consistency, talk, separation]
 ---
 Today, [Tomer Gabel](@tomerg) gave a talk to [BigPanda](https://bigpanda.io/)'s RnD with the title: "An Abridged Guide to
-Event Sourcing".    
+Event Sourcing".
 This eye-opening presentation definitely deserves a more in-depth blog post, but I figured it might be
 useful to summarize my takeaways from it.
 

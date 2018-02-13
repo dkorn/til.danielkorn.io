@@ -3,7 +3,8 @@ title: "Fingerprint sudo"
 date: 2018-02-03T18:59:22+02:00
 draft: false
 description: Use the Touch Bar & Touch ID to sudo
-tags: ["sudo", "macbook-pro", "fingerprint", "touch-bar", "touch-id", "permissions"]
+tags: ["sudo", "macbook-pro", "fingerprint", "touch-bar", "touch-id", "permissions", "terminal-tricks"]
+keywords: [sudo, MacBook Pro, fingerprint, touch bar, touch id, permissions, cli, terminal tricks]
 ---
 If you're a MacBook Pro user with Touch Bar and Touch ID, this one's for you.
 

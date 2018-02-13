@@ -4,6 +4,7 @@ date: 2018-01-29T21:13:55+02:00
 draft: false
 description: Markdown preview with live update
 tags: ["markdown", "preview", "npm", "readme", "live-update", "open-source", "terminal-tricks", "node"]
+keywords: [markdown, preview, npm, README, live update, open source, terminal tricks, Node, mdlive, ASCII]
 ---
 
 By now I know most of the basic markdown syntax by heart.

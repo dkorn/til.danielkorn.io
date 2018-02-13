@@ -4,6 +4,7 @@ date: 2018-02-01T20:55:32+02:00
 draft: false
 description: Perform spellchecking in vim like a boss
 tags: ["vim", "spell", "spell-checking"]
+keywords: [vim, spell, spell checking, language, misspelled]
 ---
 The feeling I get when someone points to a typo in my PR:
 
@@ -28,7 +29,7 @@ All commands refer to the word under the cursor
 
 * `zG` - ignore the misspelled word for this session (not stored and lost when you exit Vim)
 
-* `]s`/`[s` - jump to next/previous misspelled word.    
+* `]s`/`[s` - jump to next/previous misspelled word.
 A good practice is to go over them before
   publishing your changes.
 

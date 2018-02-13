@@ -4,6 +4,7 @@ date: 2018-02-05T19:03:22+02:00
 draft: false
 description: Useful trick for JavaScript debugging
 tags: ["JS", "debug", "ES6", "log", "javascript", "debugging"]
+keywords: [JS, debug, ES6, log, javascript, debugging, console.log]
 ---
 Using `console.log()` for JS debugging? You're gonna love this <3
 

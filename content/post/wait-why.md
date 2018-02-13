@@ -5,11 +5,12 @@ draft: false
 description: why I started with '_Today I Learned_'
 url: /wait-why/
 tags: ["firstpost"]
+keywords: [why, writing, beginning, first post]
 ---
 
 As a developer, learning new things is an integral part of the day-2-day work.
 
-It has been around 6 years since I took my first coding baby steps. One of the first things I noticed then was that I needed a place to organize my newly acquired knowledge.    
+It has been around 6 years since I took my first coding baby steps. One of the first things I noticed then was that I needed a place to organize my newly acquired knowledge.
 Whether it's a terminal command, a design pattern, vim plugin, git hacks, syntactic sugar, new chrome extension or a tmux keybinding, there was always something cool/useful to document.
 
 Believe me when I say I went through it all: email and later on Medium drafts, Google Drive docs,

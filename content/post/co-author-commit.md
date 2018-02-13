@@ -4,14 +4,15 @@ date: 2018-02-06T17:49:30+02:00
 draft: false
 description: Creating co-authored commits
 tags: ["git", "commit", "pairing", "pair-programming", "co-author", "github"]
+keywords: [git, commit, pairing, pair programming, co-author, GitHub]
 ---
 Not something I learned today, but definitely useful enough to spare future searches.
 
-It is quite often that we pair-program a task in the [startup I work for](https://bigpanda.io/).    
+It is quite often that we pair-program a task in the [startup I work for](https://bigpanda.io/).
 
 ![Pair Programming](https://imgur.com/xIS8if1.gif)
 
-To avoid sensitivities, share the credit and the blame, I recommend to co-author commits.    
+To avoid sensitivities, share the credit and the blame, I recommend to co-author commits.
 All you need to do is add the following on the bottom of the commit message:
 
 ```shell
