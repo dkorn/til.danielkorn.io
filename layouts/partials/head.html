@@ -6,7 +6,7 @@
 
     <title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
     {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    <meta name="description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ if eq $isHomePage true }}{{ .Site.Params.description }}{{ end }}{{ if eq $isHomePage false }}{{ .Site.Params.Title }} - {{ .Description }}{{ end }}" >
     {{ .Hugo.Generator }}
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
