@@ -7,7 +7,7 @@ tags: [mongo, mongodb, mongoose, query, optimization, performance, JS, nodejs]
 keywords: [mongo, MongoDB, mongoose, query, optimization, performance, JS, nodejs]
 ---
 
-After a few months of in production, one of our microservices had some performance issues.
+After a few months in production, one of our microservices had some performance issues.
 I was given the task of optimizing its' DB queries.
 
 ![optimization](/images/optimization.png)
@@ -15,7 +15,7 @@ I was given the task of optimizing its' DB queries.
 Though my experience with [mongoose](http://mongoosejs.com/) and MongoDB isn't vast, I was able to find
 few quick wins. The first one was using mongoose's `lean()` option.
 
-By default, mongoose converts plain javascript objects returned from MongoDB to [MongooseDocuments](http://mongoosejs.com/docs/api.html#document-js).    
+By default, mongoose converts plain javascript objects returned from MongoDB to [MongooseDocuments](http://mongoosejs.com/docs/api.html#document-js).
 These mongoose objects contain some mongoose magic, including the `save` method, getters/setters and more.
 
 But with this extra functionality comes an overhead which affects the query's performance...
@@ -41,8 +41,8 @@ And that's it
 
 In addition to `find()`, the following queries also supports `lean`: `findOne()`, `findById()`, `findOneAndUpdate()`, and `findByIdAndUpdate()`.
 
-To conclude, the rule of thumb I found for using `lean` is this:    
+To conclude, the rule of thumb I found for using `lean` is this:
 
 _If your query is mostly focused on reading the data, with no need of mongoose functionality for advanced manipulations - add_ `lean`
 
-[![Lean On youtube link](https://img.youtube.com/vi/YqeW9_5kURI/0.jpg)](https://www.youtube.com/watch?v=YqeW9_5kURI)
+[![Lean On youtube link](/images/lean_on_youtube.png)](https://www.youtube.com/watch?v=YqeW9_5kURI)
