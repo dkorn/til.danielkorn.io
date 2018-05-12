@@ -5,6 +5,12 @@
       {{ with .Site.Params.linkedin }}
       <a href="//www.linkedin.com/in/{{ . }}" target="_blank" title="linkedIn"><i class="fa fa-2x fa-fw fa-linkedin"></i> <span class="hidden">LinkedIn</span></a>&nbsp;
       {{ end }}
+      {{ with .Site.Params.github }}
+      <a href="//github.com/{{ . }}" target="_blank" title="GitHub"><i class="fa fa-2x fa-fw fa-github"></i> <span class="hidden">GitHub</span></a>&nbsp;
+      {{ end }}
+      {{ with .Site.Params.medium }}
+      <a href="//medium.com/@{{ . }}" target="_blank" title="Medium"><i class="fa fa-2x fa-fw fa-medium"></i> <span class="hidden">GitHub</span></a>&nbsp;
+      {{ end }}
       {{ with .Site.Params.googleplus }}
       <a href="//plus.google.com/{{ . }}" target="_blank" title="Google+"><i class="fa fa-2x fa-fw fa-google-plus"></i> <span class="hidden">Google+</span></a>&nbsp;
       {{ end }}
@@ -13,9 +19,6 @@
       {{ end }}
       {{ with .Site.Params.instagram }}
       <a href="//www.instagram.com/{{ . }}" target="_blank" title="Instagram"><i class="fa fa-2x fa-fw fa-instagram"></i> <span class="hidden">Instagram</span></a>&nbsp;
-      {{ end }}
-      {{ with .Site.Params.github }}
-      <a href="//github.com/{{ . }}" target="_blank" title="GitHub"><i class="fa fa-2x fa-fw fa-github"></i> <span class="hidden">GitHub</span></a>&nbsp;
       {{ end }}
       {{ with .Site.Params.gitlab }}
       <a href="//gitlab.com/u/{{ . }}" target="_blank" title="GitLab"><i class="fa fa-2x fa-fw fa-gitlab"></i> <span class="hidden">GitLab</span></a>&nbsp;

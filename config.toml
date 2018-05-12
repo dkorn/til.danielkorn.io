@@ -40,6 +40,7 @@ paginate = 10
 	facebook = "daniel.korn.56"
 	instagram = "danielkornjnael"
 	github = "dkorn"
+  medium = "korndaniel1"
 
 	# Customize or translate the strings
 	keepReadingStr = "Keep reading"
