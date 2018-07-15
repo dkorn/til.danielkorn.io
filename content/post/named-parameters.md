@@ -56,7 +56,7 @@ does not matter.
 ```JS
 // renamed name to orgName
 const myFunc = ({ orgId, name: orgName , force, verbose }) => {
-  console.log(organizationName); // 'Test'
+  console.log(orgName); // 'Test'
 }
 
 myFunc({ orgId: 17, name: 'Test', force: true, verbose: false)
