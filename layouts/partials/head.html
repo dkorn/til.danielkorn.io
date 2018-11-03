@@ -38,6 +38,9 @@
     <link rel="icon" type="image/x-icon" href="{{ . | absURL }}">
     {{ end }}
 
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+
     {{ "<!-- Stylesheet for theme color -->" | safeHTML }}
     {{ partial (printf "themes/%s-theme" .Site.Params.themecolor) . }}
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

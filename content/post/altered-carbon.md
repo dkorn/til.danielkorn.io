@@ -2,6 +2,7 @@
 title: "Altered Carbon"
 date: 2018-05-13T18:00:33+03:00
 draft: false
+images: [/images/carbon.png]
 description: Create and share images of your source code
 tags: [code-snippets, syntax-highlighting, source-code, code-images, open-source]
 keywords: [code snippets, syntax highlighting, source code, code images, open source]
