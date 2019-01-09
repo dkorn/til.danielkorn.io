@@ -3,6 +3,7 @@ title: "git + hub = github"
 date: 2018-01-30T21:33:12+02:00
 draft: false
 description: CLI tool for working with GitHub
+images: [/images/github-logo.png]
 tags: ["git", "github", "cli", "terminal-tricks", "open-source", "version-control", "hub", "pull-request"]
 keywords: [git, GitHub, cli, terminal tricks, open source, version control, hub, pull request]
 ---
@@ -23,7 +24,7 @@ I've been using it for a while now and this is the gist:
 ```shell
 $ hub pull-request -o
 ```
-Will open your default editor to insert the header and description, then lunch a new browser tab to view it.
+Will open your default editor to insert the header and description, then launch a new browser tab to view it.
 You can even add reviewers `[-r <REVIEWERS>]`
 
 * Clone a GitHub repo:
