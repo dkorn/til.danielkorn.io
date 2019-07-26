@@ -57,7 +57,7 @@ expressions in scope, use the console and take advantage of many more advanced o
 
 Dark mode, all the cool kids are doing it.
 
-Open DevTools -> Settings -> Prefernces, Appearance -> choose `Dark`
+Open DevTools -> Settings -> Preferences, Appearance -> choose `Dark`
 
 ![DevTools Dark Theme](/images/devtools_dark_theme.png)
 
